@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="0.7in"
+   height="1.3in"
+   viewBox="0 0 50.4 93.6"
+   id="svg3236"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Untitled Sketch 3_Leiterplatte.svg">
+  <metadata
+     id="metadata3485">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3483" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview3481"
+     showgrid="false"
+     inkscape:zoom="3.9145302"
+     inkscape:cx="31.5"
+     inkscape:cy="68.718336"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3236" />
+  <g
+     partID="854210050"
+     id="g3238">
+    <g
+       id="copper0">
+      <circle
+         stroke="#F7BD13"
+         fill="none"
+         cy="10.8"
+         id="connector25pad"
+         cx="46.8"
+         stroke-width="1.224"
+         r="2.052" />
+      <circle
+         stroke="#F7BD13"
+         fill="none"
+         cy="18"
+         id="connector26pad"
+         cx="46.8"
+         stroke-width="1.224"
+         r="2.052" />
+      <circle
+         stroke="#F7BD13"
+         fill="none"
+         cy="25.2"
+         id="connector27pad"
+         cx="46.8"
+         stroke-width="1.224"
+         r="2.052" />
+      <circle
+         stroke="#F7BD13"
+         fill="none"
+         cy="32.4"
+         id="connector28pad"
+         cx="46.8"
+         stroke-width="1.224"
+         r="2.052" />
+      <circle
+         stroke="#F7BD13"
+         fill="none"
+         cy="39.6"
+         id="connector29pad"
+         cx="46.8"
+         stroke-width="1.224"
+         r="2.052" />
+      <circle
+         stroke="#F7BD13"
+         fill="none"
+         cy="46.8"
+         id="connector30pad"
+         cx="46.8"
+         stroke-width="1.224"
+         r="2.052" />
+      <circle
+         stroke="#F7BD13"
+         fill="none"
+         cy="54"
+         id="connector31pad"
+         cx="46.8"
+         stroke-width="1.224"
+         r="2.052" />
+      <circle
+         stroke="#F7BD13"
+         fill="none"
+         cy="61.2"
+         id="connector32pad"
+         cx="46.8"
+         stroke-width="1.224"
+         r="2.052" />
+      <circle
+         stroke="#F7BD13"
+         fill="none"
+         cy="68.4"
+         id="connector33pad"
+         cx="46.8"
+         stroke-width="1.224"
+         r="2.052" />
+      <circle
+         stroke="#F7BD13"
+         fill="none"
+         cy="75.6"
+         id="connector34pad"
+         cx="46.8"
+         stroke-width="1.224"
+         r="2.052" />
+      <circle
+         stroke="#F7BD13"
+         fill="none"
+         cy="82.8"
+         id="connector35pad"
+         cx="46.8"
+         stroke-width="1.224"
+         r="2.052" />
+      <circle
+         stroke="#F7BD13"
+         fill="none"
+         cy="90"
+         id="connector36pad"
+         cx="46.8"
+         stroke-width="1.224"
+         r="2.052" />
+      <circle
+         stroke="#F7BD13"
+         fill="none"
+         cy="90"
+         id="connector37pad"
+         cx="3.6"
+         stroke-width="1.224"
+         r="2.052" />
+      <circle
+         stroke="#F7BD13"
+         fill="none"
+         cy="82.8"
+         id="connector38pad"
+         cx="3.6"
+         stroke-width="1.224"
+         r="2.052" />
+      <circle
+         stroke="#F7BD13"
+         fill="none"
+         cy="75.6"
+         id="connector39pad"
+         cx="3.6"
+         stroke-width="1.224"
+         r="2.052" />
+      <circle
+         stroke="#F7BD13"
+         fill="none"
+         cy="68.4"
+         id="connector40pad"
+         cx="3.6"
+         stroke-width="1.224"
+         r="2.052" />
+      <circle
+         stroke="#F7BD13"
+         fill="none"
+         cy="61.2"
+         id="connector41pad"
+         cx="3.6"
+         stroke-width="1.224"
+         r="2.052" />
+      <circle
+         stroke="#F7BD13"
+         fill="none"
+         cy="54"
+         id="connector42pad"
+         cx="3.6"
+         stroke-width="1.224"
+         r="2.052" />
+      <circle
+         stroke="#F7BD13"
+         fill="none"
+         cy="46.8"
+         id="connector43pad"
+         cx="3.6"
+         stroke-width="1.224"
+         r="2.052" />
+      <circle
+         stroke="#F7BD13"
+         fill="none"
+         cy="39.6"
+         id="connector44pad"
+         cx="3.6"
+         stroke-width="1.224"
+         r="2.052" />
+      <circle
+         stroke="#F7BD13"
+         fill="none"
+         cy="32.4"
+         id="connector45pad"
+         cx="3.6"
+         stroke-width="1.224"
+         r="2.052" />
+      <circle
+         stroke="#F7BD13"
+         fill="none"
+         cy="25.2"
+         id="connector46pad"
+         cx="3.6"
+         stroke-width="1.224"
+         r="2.052" />
+      <circle
+         stroke="#F7BD13"
+         fill="none"
+         cy="18"
+         id="connector47pad"
+         cx="3.6"
+         stroke-width="1.224"
+         r="2.052" />
+      <circle
+         stroke="#F7BD13"
+         fill="none"
+         cy="10.8"
+         id="connector48pad"
+         cx="3.6"
+         stroke-width="1.224"
+         r="2.052" />
+    </g>
+  </g>
+  <g
+     partID="854210052"
+     id="g3273">
+    <g
+       id="copper1">
+      <g
+         id="g3276">
+        <circle
+           stroke="#F7BD13"
+           fill="none"
+           cy="10.8"
+           id="circle3290"
+           cx="46.8"
+           stroke-width="1.224"
+           r="2.052" />
+        <circle
+           stroke="#F7BD13"
+           fill="none"
+           cy="18"
+           id="circle3292"
+           cx="46.8"
+           stroke-width="1.224"
+           r="2.052" />
+        <circle
+           stroke="#F7BD13"
+           fill="none"
+           cy="25.2"
+           id="circle3294"
+           cx="46.8"
+           stroke-width="1.224"
+           r="2.052" />
+        <circle
+           stroke="#F7BD13"
+           fill="none"
+           cy="32.4"
+           id="circle3296"
+           cx="46.8"
+           stroke-width="1.224"
+           r="2.052" />
+        <circle
+           stroke="#F7BD13"
+           fill="none"
+           cy="39.6"
+           id="circle3298"
+           cx="46.8"
+           stroke-width="1.224"
+           r="2.052" />
+        <circle
+           stroke="#F7BD13"
+           fill="none"
+           cy="46.8"
+           id="circle3304"
+           cx="46.8"
+           stroke-width="1.224"
+           r="2.052" />
+        <circle
+           stroke="#F7BD13"
+           fill="none"
+           cy="54"
+           id="circle3306"
+           cx="46.8"
+           stroke-width="1.224"
+           r="2.052" />
+        <circle
+           stroke="#F7BD13"
+           fill="none"
+           cy="61.2"
+           id="circle3308"
+           cx="46.8"
+           stroke-width="1.224"
+           r="2.052" />
+        <circle
+           stroke="#F7BD13"
+           fill="none"
+           cy="68.4"
+           id="circle3310"
+           cx="46.8"
+           stroke-width="1.224"
+           r="2.052" />
+        <circle
+           stroke="#F7BD13"
+           fill="none"
+           cy="75.6"
+           id="circle3312"
+           cx="46.8"
+           stroke-width="1.224"
+           r="2.052" />
+        <circle
+           stroke="#F7BD13"
+           fill="none"
+           cy="82.8"
+           id="circle3314"
+           cx="46.8"
+           stroke-width="1.224"
+           r="2.052" />
+        <circle
+           stroke="#F7BD13"
+           fill="none"
+           cy="90"
+           id="circle3316"
+           cx="46.8"
+           stroke-width="1.224"
+           r="2.052" />
+        <circle
+           stroke="#F7BD13"
+           fill="none"
+           cy="90"
+           id="circle3318"
+           cx="3.6"
+           stroke-width="1.224"
+           r="2.052" />
+        <circle
+           stroke="#F7BD13"
+           fill="none"
+           cy="82.8"
+           id="circle3320"
+           cx="3.6"
+           stroke-width="1.224"
+           r="2.052" />
+        <circle
+           stroke="#F7BD13"
+           fill="none"
+           cy="75.6"
+           id="circle3322"
+           cx="3.6"
+           stroke-width="1.224"
+           r="2.052" />
+        <circle
+           stroke="#F7BD13"
+           fill="none"
+           cy="68.4"
+           id="circle3324"
+           cx="3.6"
+           stroke-width="1.224"
+           r="2.052" />
+        <circle
+           stroke="#F7BD13"
+           fill="none"
+           cy="61.2"
+           id="circle3326"
+           cx="3.6"
+           stroke-width="1.224"
+           r="2.052" />
+        <circle
+           stroke="#F7BD13"
+           fill="none"
+           cy="54"
+           id="circle3328"
+           cx="3.6"
+           stroke-width="1.224"
+           r="2.052" />
+        <circle
+           stroke="#F7BD13"
+           fill="none"
+           cy="46.8"
+           id="circle3330"
+           cx="3.6"
+           stroke-width="1.224"
+           r="2.052" />
+        <circle
+           stroke="#F7BD13"
+           fill="none"
+           cy="39.6"
+           id="circle3332"
+           cx="3.6"
+           stroke-width="1.224"
+           r="2.052" />
+        <circle
+           stroke="#F7BD13"
+           fill="none"
+           cy="32.4"
+           id="circle3334"
+           cx="3.6"
+           stroke-width="1.224"
+           r="2.052" />
+        <circle
+           stroke="#F7BD13"
+           fill="none"
+           cy="25.2"
+           id="circle3336"
+           cx="3.6"
+           stroke-width="1.224"
+           r="2.052" />
+        <circle
+           stroke="#F7BD13"
+           fill="none"
+           cy="18"
+           id="circle3338"
+           cx="3.6"
+           stroke-width="1.224"
+           r="2.052" />
+        <circle
+           stroke="#F7BD13"
+           fill="none"
+           cy="10.8"
+           id="circle3340"
+           cx="3.6"
+           stroke-width="1.224"
+           r="2.052" />
+      </g>
+    </g>
+  </g>
+  <g
+     partID="854210051"
+     id="g3342">
+    <g
+       id="silkscreen">
+      <path
+         stroke="#FFFFFF"
+         fill="none"
+         stroke-width="0.576"
+         d="M0.288,0.288l0,93.022l49.824,0L50.112,0.288L0.288,0.288"
+         id="path3345" />
+      <circle
+         stroke="#FFFFFF"
+         fill="none"
+         cy="68.4"
+         cx="3.6"
+         stroke-width="0.72"
+         r="2.88"
+         id="circle3347" />
+      <circle
+         stroke="#FFFFFF"
+         fill="none"
+         cy="61.2"
+         cx="3.6"
+         stroke-width="0.72"
+         r="2.88"
+         id="circle3349" />
+      <circle
+         stroke="#FFFFFF"
+         fill="none"
+         cy="46.8"
+         cx="3.6"
+         stroke-width="0.72"
+         r="2.88"
+         id="circle3351" />
+      <circle
+         stroke="#FFFFFF"
+         fill="none"
+         cy="90"
+         cx="3.6"
+         stroke-width="0.72"
+         r="2.88"
+         id="circle3353" />
+      <circle
+         stroke="#FFFFFF"
+         fill="none"
+         cy="90"
+         cx="46.8"
+         stroke-width="0.72"
+         r="2.88"
+         id="circle3355" />
+      <circle
+         stroke="#FFFFFF"
+         fill="none"
+         cy="82.8"
+         cx="46.8"
+         stroke-width="0.72"
+         r="2.88"
+         id="circle3357" />
+      <g
+         id="g3359">
+        <g
+           transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 9.6121, 91.0803)"
+           id="g3361">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3363">9</text>
+        </g>
+        <g
+           transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 9.6121, 83.8792)"
+           id="g3365">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3367">8</text>
+        </g>
+        <g
+           transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 9.6121, 76.3196)"
+           id="g3369">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3371">7</text>
+        </g>
+        <g
+           transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 9.6121, 69.4788)"
+           id="g3373">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3375">6</text>
+        </g>
+        <g
+           transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 9.6121, 62.2795)"
+           id="g3377">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3379">5</text>
+        </g>
+        <g
+           transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 9.6121, 55.0803)"
+           id="g3381">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3383">4</text>
+        </g>
+        <g
+           transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 9.6121, 47.8792)"
+           id="g3385">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3387">3</text>
+        </g>
+        <g
+           transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 9.2517, 40.3196)"
+           id="g3389">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3391">2</text>
+        </g>
+        <g
+           transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 9.2517, 35.6399)"
+           id="g3393">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3395">GND</text>
+        </g>
+        <g
+           transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 9.2517, 28.0803)"
+           id="g3397">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3399">RST</text>
+        </g>
+        <g
+           transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 9.2517, 20.8792)"
+           id="g3401">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3403">RXI</text>
+        </g>
+        <g
+           transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 9.2517, 13.6799)"
+           id="g3405">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3407">TXO</text>
+        </g>
+        <g
+           transform="matrix(1, 0, 0, 1, 33.0125, 8.7483)"
+           id="g3409">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3411">TXO</text>
+        </g>
+        <g
+           transform="matrix(1, 0, 0, 1, 26.1726, 8.7483)"
+           id="g3413">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3415">RXI</text>
+        </g>
+        <g
+           transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 43.4519, 13.6799)"
+           id="g3417">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3419">RAW</text>
+        </g>
+        <g
+           transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 43.4519, 20.8792)"
+           id="g3421">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3423">GND</text>
+        </g>
+        <g
+           transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 43.4519, 28.0803)"
+           id="g3425">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3427">RST</text>
+        </g>
+        <g
+           transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 43.4519, 35.2795)"
+           id="g3429">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3431">VCC</text>
+        </g>
+        <g
+           transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 43.4519, 41.3997)"
+           id="g3433">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3435">A3</text>
+        </g>
+        <g
+           transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 43.4519, 48.5999)"
+           id="g3437">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3439">A2</text>
+        </g>
+        <g
+           transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 43.4519, 56.1604)"
+           id="g3441">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3443">A1</text>
+        </g>
+        <g
+           transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 43.4519, 63.3596)"
+           id="g3445">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3447">A0</text>
+        </g>
+        <g
+           transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 43.4519, 70.5598)"
+           id="g3449">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3451">13</text>
+        </g>
+        <g
+           transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 43.4519, 77.76)"
+           id="g3453">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3455">12</text>
+        </g>
+        <g
+           transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 43.4519, 84.9592)"
+           id="g3457">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3459">11</text>
+        </g>
+        <g
+           transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 43.4519, 92.1604)"
+           id="g3461">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3463">10</text>
+        </g>
+        <g
+           transform="matrix(1, 0, 0, 1, 18.6121, 8.7483)"
+           id="g3465">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3467">VCC</text>
+        </g>
+        <g
+           transform="matrix(1, 0, 0, 1, 11.4124, 8.7483)"
+           id="g3469">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3471">GND</text>
+        </g>
+        <g
+           transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 3.4919, 6.4788)"
+           id="g3473">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3475">BLK</text>
+        </g>
+        <g
+           transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 48.8523, 6.4788)"
+           id="g3477">
+          <text
+             fill="#FFFFFF"
+             font-size="2.5"
+             font-family="'OCRA'"
+             id="text3479">GRN</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
