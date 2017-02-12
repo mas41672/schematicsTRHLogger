@@ -4,7 +4,7 @@
 *eMail=
 *
 *Project=TRH
-*Date=09:53:51
+*Date=20:22:03
 *CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
 *
 *
@@ -13,14 +13,14 @@
 *Rotation in degree (0-360, math. pos.)
 *
 *No;Value;Package;X;Y;Rotation;Side;Name
-1;;;62.4415;-33.4142;90;Bottom;Bauteil16
-2;;3 mm [THT];27.7927;-33.0341;90;Bottom;LED1
-3;;THT;34.9515;-29.0342;180;Bottom;R5
-4;;THT;47.9515;-46.0342;180;Bottom;R1
-5;;3 mm [THT];38.7927;-46.0341;90;Bottom;LED2
-6;;THT;39.9515;-35.0342;180;Bottom;R6
-7;;;60.1415;-11.1442;-180;Bottom;Bauteil7
-8;;;23.7633;-10.5074;-90;Bottom;microSD Transflash1
-9;;to-92;12.8715;-26.5803;0;Bottom;Q1
-10;3V;;73.8715;-20.0342;-90;Bottom;VCC1
-11;;;9.3315;-46.9242;-90;Bottom;Bauteil14
+1;3V;;73.8716;-38.5897;-90;Bottom;VCC1
+2;;;62.4416;-51.9698;90;Bottom;Bauteil16
+3;;to-92;15.8715;-39.1359;0;Bottom;Q1
+4;;3 mm [THT];27.7927;-50.5897;90;Bottom;LED1
+5;;THT;34.9515;-45.5898;180;Bottom;R5
+6;;THT;47.9515;-64.5898;180;Bottom;R1
+7;;THT;39.9516;-53.5898;180;Bottom;R6
+8;;;24.2233;-20.063;-90;Bottom;microSD Transflash1
+9;;;8.95151;-61.4798;-90;Bottom;Bauteil14
+10;;3 mm [THT];38.7927;-64.5897;90;Bottom;LED2
+11;;;60.6015;-16.6998;180;Bottom;Bauteil7
